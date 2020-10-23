@@ -5,7 +5,7 @@
 
 ```bash
 
-chmod +x bing.h
+chmod +x bing.sh
 
 ```
 
